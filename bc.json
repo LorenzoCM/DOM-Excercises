@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://b93d8d6b-ef8f-42c8-a989-9c51c06e9c31.ws-us02.gitpod.io",
+    "address": "https://c32601ef-9c46-45d6-b540-9ca5d111c55e.ws-us02.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -39,7 +39,7 @@
         {
             "slug": "01-hello-world",
             "title": "01-hello-world",
-            "done": false,
+            "done": true,
             "path": "exercises/01-hello-world",
             "translations": [
                 "es",
@@ -50,7 +50,7 @@
         {
             "slug": "02-Select-DOM-Element",
             "title": "02-Select-DOM-Element",
-            "done": false,
+            "done": true,
             "path": "exercises/02-Select-DOM-Element",
             "translations": [
                 "es",
@@ -61,7 +61,7 @@
         {
             "slug": "03-Change-Div-Background",
             "title": "03-Change-Div-Background",
-            "done": false,
+            "done": true,
             "path": "exercises/03-Change-Div-Background",
             "translations": [
                 "es",
@@ -72,7 +72,7 @@
         {
             "slug": "04-Move-DOM-Element",
             "title": "04-Move-DOM-Element",
-            "done": false,
+            "done": true,
             "path": "exercises/04-Move-DOM-Element",
             "translations": [
                 "es",
@@ -83,7 +83,7 @@
         {
             "slug": "05-Create-DOM-Element-First",
             "title": "05-Create-DOM-Element-First",
-            "done": false,
+            "done": true,
             "path": "exercises/05-Create-DOM-Element-First",
             "translations": [
                 "es",
@@ -94,7 +94,7 @@
         {
             "slug": "06-Create-DOM-Element-Second",
             "title": "06-Create-DOM-Element-Second",
-            "done": false,
+            "done": true,
             "path": "exercises/06-Create-DOM-Element-Second",
             "translations": [
                 "es",
@@ -105,7 +105,7 @@
         {
             "slug": "07-Create-DOM-list-of-li",
             "title": "07-Create-DOM-list-of-li",
-            "done": false,
+            "done": true,
             "path": "exercises/07-Create-DOM-list-of-li",
             "translations": [
                 "es",
@@ -127,7 +127,7 @@
         {
             "slug": "09-Remove-DOM-Element-part-two",
             "title": "09-Remove-DOM-Element-part-two",
-            "done": false,
+            "done": true,
             "path": "exercises/09-Remove-DOM-Element-part-two",
             "translations": [
                 "es",
@@ -138,7 +138,7 @@
         {
             "slug": "10-Render-on-Click",
             "title": "10-Render-on-Click",
-            "done": false,
+            "done": true,
             "path": "exercises/10-Render-on-Click",
             "translations": [
                 "es",
@@ -149,7 +149,7 @@
         {
             "slug": "11-Add-LI-on-Click",
             "title": "11-Add-LI-on-Click",
-            "done": false,
+            "done": true,
             "path": "exercises/11-Add-LI-on-Click",
             "translations": [
                 "es",
@@ -160,7 +160,7 @@
         {
             "slug": "12-Dynamic-HTML-String",
             "title": "12-Dynamic-HTML-String",
-            "done": false,
+            "done": true,
             "path": "exercises/12-Dynamic-HTML-String",
             "translations": [
                 "es",
@@ -171,7 +171,7 @@
         {
             "slug": "13-Add-Options-to-the-Select",
             "title": "13-Add-Options-to-the-Select",
-            "done": false,
+            "done": true,
             "path": "exercises/13-Add-Options-to-the-Select",
             "translations": [
                 "es",
@@ -182,7 +182,7 @@
         {
             "slug": "14-Todo-List",
             "title": "14-Todo-List",
-            "done": false,
+            "done": true,
             "path": "exercises/14-Todo-List",
             "translations": [
                 "es",
